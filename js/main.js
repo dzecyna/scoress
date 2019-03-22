@@ -3,6 +3,6 @@ jQuery(document).ready(function($) {
 
 });
 $(document).ready(function() {
-  $('img[src*=logo]').fadeIn(4000,0.4);
+  $('img[src*=logo]').hide(4000,0.4);
 
 });
